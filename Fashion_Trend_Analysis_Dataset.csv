@@ -1,0 +1,501 @@
+DateTime,Product_Category,Price_Range,Season,Color_Palette,Material_Type,Customer_Rating,Sales_Volume,Region
+2023-08-22,Accessories,Low,Winter,Neutral,Wool,2.5,551,South America
+2023-01-10,Tops,High,All Seasons,Dark,Wool,4.8,194,Australia
+2023-04-11,Dresses,Medium,Spring,Bright,Silk,3.9,250,Australia
+2023-03-23,Shoes,High,Winter,Bright,Silk,3.4,978,North America
+2023-09-26,Tops,Medium,Winter,Neutral,Polyester,1.6,773,North America
+2023-09-04,Accessories,Medium,Spring,Mixed,Silk,1.6,510,South America
+2023-11-22,Tops,Low,Spring,Mixed,Silk,1.2,781,Europe
+2023-02-01,Shoes,Low,Winter,Mixed,Wool,4.5,801,Europe
+2023-06-04,Tops,High,Summer,Dark,Leather,3.4,974,South America
+2023-01-11,Dresses,Medium,Summer,Pastel,Cotton,3.8,958,North America
+2023-03-21,Dresses,Medium,Autumn,Pastel,Silk,1.1,607,North America
+2023-07-04,Dresses,Medium,Winter,Mixed,Polyester,4.9,596,Europe
+2023-01-10,Accessories,Medium,Winter,Mixed,Leather,4.3,302,Australia
+2023-03-14,Dresses,Low,All Seasons,Dark,Polyester,1.8,439,Asia
+2023-08-26,Accessories,High,Summer,Dark,Leather,1.7,643,South America
+2023-07-18,Outerwear,Low,Winter,Bright,Polyester,1.7,932,North America
+2023-03-22,Dresses,Low,Autumn,Pastel,Cotton,2.2,305,Asia
+2023-08-04,Tops,Medium,Autumn,Neutral,Wool,3.1,758,Australia
+2023-10-23,Tops,Low,Summer,Bright,Wool,2.7,864,Asia
+2023-01-03,Shoes,High,Winter,Dark,Wool,2.2,970,North America
+2023-10-22,Outerwear,Low,Summer,Pastel,Silk,3.4,499,South America
+2023-09-12,Dresses,Low,Spring,Mixed,Wool,1.6,59,North America
+2023-05-05,Accessories,High,Winter,Bright,Polyester,2.2,873,South America
+2023-02-26,Accessories,Low,Autumn,Dark,Cotton,2.5,847,North America
+2023-12-16,Accessories,Low,Summer,Mixed,Silk,2.8,291,North America
+2023-05-03,Accessories,High,Autumn,Mixed,Polyester,4.1,300,Europe
+2023-02-03,Outerwear,Low,Summer,Pastel,Silk,1.8,926,North America
+2023-02-05,Tops,High,Summer,Mixed,Polyester,3.1,54,Australia
+2023-11-06,Tops,Low,Autumn,Pastel,Polyester,3.4,168,Australia
+2023-08-09,Tops,Low,All Seasons,Neutral,Leather,1.2,850,Australia
+2023-10-22,Tops,Low,Summer,Bright,Polyester,3.4,423,Europe
+2023-09-24,Accessories,Low,All Seasons,Bright,Silk,1.7,114,Europe
+2023-07-15,Shoes,Medium,Autumn,Dark,Silk,1.3,195,Europe
+2023-12-22,Dresses,Low,Spring,Mixed,Silk,4.8,273,North America
+2023-05-19,Accessories,Low,All Seasons,Mixed,Polyester,4.9,288,Asia
+2023-07-21,Accessories,High,Autumn,Neutral,Wool,4.2,226,South America
+2023-10-30,Tops,Low,All Seasons,Dark,Cotton,2.2,828,North America
+2023-08-14,Accessories,Low,Autumn,Neutral,Cotton,1.4,902,Europe
+2023-11-11,Accessories,Low,Spring,Bright,Wool,3.7,331,Asia
+2023-07-30,Tops,Low,Winter,Dark,Silk,2.8,112,Europe
+2023-09-15,Outerwear,High,All Seasons,Dark,Cotton,1.5,266,Australia
+2023-01-17,Outerwear,Medium,Summer,Mixed,Leather,3.0,903,Australia
+2023-03-25,Tops,High,Summer,Neutral,Silk,1.1,876,North America
+2023-04-16,Tops,Medium,Spring,Dark,Cotton,4.6,844,North America
+2023-01-30,Dresses,High,Autumn,Dark,Leather,2.0,738,North America
+2023-03-26,Accessories,Medium,All Seasons,Pastel,Polyester,3.7,510,Europe
+2023-02-06,Outerwear,Low,All Seasons,Pastel,Wool,2.2,978,North America
+2023-04-12,Dresses,Medium,Winter,Mixed,Cotton,3.1,659,South America
+2023-08-21,Accessories,High,All Seasons,Bright,Wool,3.2,154,Europe
+2023-05-14,Tops,Low,Winter,Mixed,Cotton,1.7,148,Europe
+2023-05-16,Accessories,High,Winter,Neutral,Leather,4.9,560,Asia
+2023-03-18,Accessories,High,Autumn,Mixed,Polyester,4.1,434,Australia
+2023-04-08,Tops,Medium,Spring,Mixed,Wool,4.8,454,North America
+2023-12-08,Accessories,Medium,Summer,Neutral,Polyester,4.6,872,Asia
+2023-08-25,Outerwear,High,Spring,Mixed,Polyester,3.4,567,North America
+2023-08-11,Accessories,Low,Winter,Pastel,Leather,4.7,525,South America
+2023-03-04,Tops,Medium,Spring,Bright,Cotton,1.4,758,Europe
+2023-09-24,Outerwear,Medium,Autumn,Dark,Polyester,1.8,912,Asia
+2023-03-01,Accessories,High,Summer,Bright,Polyester,1.2,694,Europe
+2023-05-19,Dresses,Medium,All Seasons,Mixed,Wool,2.3,919,Asia
+2023-12-28,Shoes,High,Autumn,Pastel,Polyester,2.6,820,Europe
+2023-08-22,Dresses,Low,Winter,Dark,Wool,2.1,486,Europe
+2023-07-23,Shoes,Low,Spring,Bright,Wool,4.3,72,North America
+2023-09-07,Dresses,Medium,Summer,Pastel,Cotton,2.4,614,Australia
+2023-11-04,Outerwear,Low,All Seasons,Bright,Silk,2.1,726,Australia
+2023-10-11,Outerwear,Low,Winter,Bright,Cotton,3.2,763,North America
+2023-03-25,Tops,Medium,Autumn,Pastel,Polyester,1.6,507,Europe
+2023-01-12,Outerwear,Medium,Winter,Pastel,Wool,4.2,132,Asia
+2023-04-26,Accessories,Low,All Seasons,Neutral,Cotton,1.3,194,South America
+2023-04-08,Outerwear,High,Spring,Mixed,Wool,4.9,134,Asia
+2023-03-19,Accessories,Medium,All Seasons,Pastel,Leather,4.1,127,Asia
+2023-12-11,Shoes,Medium,Winter,Mixed,Leather,1.8,506,South America
+2023-11-16,Accessories,Medium,Autumn,Mixed,Silk,1.0,927,South America
+2023-04-25,Outerwear,Low,Winter,Bright,Cotton,4.3,50,Asia
+2023-08-28,Dresses,High,Summer,Pastel,Cotton,3.8,100,Asia
+2023-05-25,Outerwear,High,All Seasons,Pastel,Polyester,3.9,734,South America
+2023-11-30,Shoes,Medium,Winter,Bright,Wool,4.1,766,Asia
+2023-06-17,Shoes,High,Winter,Neutral,Cotton,1.3,821,South America
+2023-04-07,Shoes,High,Spring,Bright,Polyester,2.4,495,Asia
+2023-04-01,Accessories,Low,All Seasons,Mixed,Leather,1.5,498,North America
+2023-07-24,Dresses,Medium,Autumn,Pastel,Cotton,4.5,930,South America
+2023-04-06,Outerwear,Low,All Seasons,Pastel,Wool,3.5,537,Australia
+2023-08-02,Outerwear,Medium,Spring,Neutral,Wool,2.3,849,Asia
+2023-11-24,Tops,Medium,Spring,Bright,Cotton,1.3,83,South America
+2023-05-26,Outerwear,Medium,Spring,Bright,Leather,2.2,397,South America
+2023-03-22,Dresses,Low,Spring,Mixed,Cotton,2.3,144,Australia
+2023-12-31,Shoes,Medium,Summer,Pastel,Silk,3.9,121,Australia
+2023-07-05,Accessories,Medium,Winter,Dark,Cotton,3.6,600,North America
+2023-02-03,Dresses,Medium,Summer,Dark,Wool,4.5,203,Australia
+2023-01-18,Tops,Low,All Seasons,Bright,Silk,2.9,299,North America
+2023-02-10,Outerwear,High,All Seasons,Mixed,Wool,1.5,723,South America
+2023-08-18,Tops,Low,All Seasons,Mixed,Wool,3.9,487,South America
+2023-10-17,Dresses,High,Summer,Dark,Cotton,4.0,167,South America
+2023-06-04,Accessories,Low,Winter,Pastel,Silk,3.2,820,North America
+2023-01-24,Dresses,Low,Autumn,Neutral,Wool,4.1,940,Asia
+2023-05-20,Outerwear,High,Spring,Dark,Leather,3.0,355,South America
+2023-12-30,Accessories,High,Summer,Neutral,Cotton,3.1,317,Asia
+2023-07-13,Dresses,Medium,Autumn,Dark,Cotton,2.7,103,South America
+2023-12-21,Tops,Medium,Autumn,Pastel,Wool,1.1,285,Australia
+2023-11-11,Outerwear,Medium,Spring,Mixed,Silk,1.4,438,South America
+2023-01-05,Tops,Low,All Seasons,Pastel,Polyester,1.1,783,Europe
+2023-09-21,Accessories,Low,Spring,Dark,Leather,3.5,812,South America
+2023-09-06,Shoes,Medium,Winter,Neutral,Polyester,2.3,874,South America
+2023-07-15,Accessories,Medium,Winter,Neutral,Cotton,3.0,450,North America
+2023-04-08,Accessories,High,Winter,Mixed,Polyester,4.6,673,Europe
+2023-08-22,Accessories,High,All Seasons,Mixed,Cotton,2.0,816,Europe
+2023-02-10,Shoes,High,Autumn,Dark,Silk,2.6,352,Europe
+2023-06-08,Accessories,High,All Seasons,Dark,Wool,4.0,968,Europe
+2023-06-15,Tops,Medium,Spring,Pastel,Wool,1.9,256,Asia
+2023-12-15,Dresses,Medium,Spring,Mixed,Wool,1.3,278,South America
+2023-11-16,Accessories,Medium,Winter,Bright,Wool,2.2,902,Australia
+2023-04-07,Dresses,Low,Autumn,Dark,Leather,1.6,959,Australia
+2023-07-02,Shoes,Medium,Winter,Neutral,Wool,4.7,627,Asia
+2023-03-07,Shoes,Low,Winter,Pastel,Polyester,4.2,124,Asia
+2023-11-30,Shoes,Low,Autumn,Bright,Silk,3.5,484,Asia
+2023-11-14,Shoes,High,Winter,Dark,Silk,4.5,152,North America
+2023-04-19,Accessories,Medium,Autumn,Dark,Wool,4.2,471,Asia
+2023-08-22,Dresses,High,Winter,Dark,Polyester,1.7,753,Australia
+2023-08-11,Accessories,Medium,Summer,Pastel,Cotton,4.6,813,South America
+2023-02-25,Dresses,High,All Seasons,Pastel,Leather,3.2,787,South America
+2023-10-06,Dresses,High,Autumn,Neutral,Leather,4.2,855,Asia
+2023-07-16,Tops,High,All Seasons,Pastel,Silk,4.6,355,North America
+2023-10-12,Tops,High,Winter,Neutral,Cotton,2.3,147,Europe
+2023-07-13,Tops,Medium,Summer,Pastel,Silk,1.4,899,Asia
+2023-01-01,Shoes,Medium,Spring,Bright,Silk,1.9,847,Europe
+2023-04-29,Accessories,Low,Spring,Mixed,Silk,2.7,384,Asia
+2023-01-08,Tops,High,Autumn,Neutral,Leather,4.3,908,Europe
+2023-12-06,Dresses,High,Autumn,Mixed,Leather,4.4,484,Asia
+2023-11-17,Shoes,Low,Summer,Dark,Leather,1.0,496,Australia
+2023-10-31,Accessories,Low,Winter,Mixed,Cotton,3.0,357,North America
+2023-04-23,Outerwear,High,Summer,Mixed,Leather,2.7,298,Europe
+2023-01-22,Shoes,Low,Winter,Neutral,Silk,1.9,215,North America
+2023-11-17,Dresses,Medium,Winter,Neutral,Polyester,1.5,530,Australia
+2023-12-12,Tops,Low,All Seasons,Neutral,Wool,2.4,384,Australia
+2023-02-01,Tops,High,All Seasons,Neutral,Wool,4.8,591,North America
+2023-06-27,Dresses,Medium,Spring,Pastel,Leather,2.3,808,South America
+2023-01-26,Tops,Medium,Summer,Mixed,Wool,3.1,155,Europe
+2023-10-05,Tops,Low,Autumn,Bright,Cotton,3.8,612,Europe
+2023-10-07,Shoes,Medium,Summer,Bright,Cotton,2.5,130,Australia
+2023-02-16,Dresses,Low,Autumn,Bright,Polyester,4.9,182,South America
+2023-06-23,Outerwear,High,Summer,Pastel,Cotton,4.8,846,South America
+2023-07-20,Shoes,Low,Summer,Pastel,Cotton,2.0,949,North America
+2023-04-07,Accessories,Medium,Spring,Mixed,Wool,3.0,187,South America
+2023-11-15,Tops,Medium,Summer,Bright,Silk,2.2,233,Europe
+2023-06-04,Outerwear,Medium,Summer,Dark,Wool,2.1,450,Europe
+2023-03-19,Shoes,High,Winter,Mixed,Silk,1.1,379,Asia
+2023-07-16,Outerwear,High,Summer,Dark,Silk,3.4,834,Australia
+2023-09-24,Shoes,Medium,All Seasons,Mixed,Wool,3.0,557,North America
+2023-03-15,Shoes,Low,Spring,Dark,Cotton,1.2,901,South America
+2023-04-24,Shoes,Low,Summer,Neutral,Silk,2.1,118,North America
+2023-12-30,Tops,Low,Autumn,Bright,Wool,4.6,595,South America
+2023-08-26,Tops,Medium,Summer,Pastel,Polyester,2.0,823,Asia
+2023-06-09,Outerwear,High,Winter,Neutral,Polyester,1.6,102,South America
+2023-07-08,Shoes,Low,Autumn,Neutral,Silk,3.0,499,Europe
+2023-02-14,Outerwear,Medium,Autumn,Neutral,Polyester,4.9,254,Asia
+2023-03-24,Shoes,Medium,Autumn,Pastel,Leather,2.0,175,Australia
+2023-05-04,Tops,Medium,Summer,Pastel,Silk,3.7,796,North America
+2023-08-03,Accessories,Low,Spring,Dark,Polyester,4.0,92,Europe
+2023-03-25,Tops,High,All Seasons,Pastel,Wool,2.0,801,South America
+2023-03-22,Tops,Low,Autumn,Mixed,Leather,3.9,932,Australia
+2023-01-26,Shoes,Medium,All Seasons,Neutral,Wool,2.5,160,Australia
+2023-08-19,Dresses,Low,Summer,Pastel,Cotton,3.5,810,South America
+2023-03-25,Outerwear,High,Summer,Neutral,Wool,3.5,712,South America
+2023-11-27,Tops,Medium,Spring,Bright,Wool,3.1,232,Asia
+2023-11-10,Accessories,High,Autumn,Mixed,Leather,1.4,897,North America
+2023-01-26,Accessories,Low,All Seasons,Mixed,Cotton,4.3,144,Europe
+2023-03-28,Accessories,Medium,Winter,Pastel,Cotton,2.3,423,Asia
+2023-09-02,Dresses,Medium,Autumn,Neutral,Silk,1.7,961,North America
+2023-03-20,Shoes,Low,Autumn,Neutral,Silk,1.2,569,South America
+2023-02-18,Shoes,Low,All Seasons,Mixed,Wool,3.4,949,South America
+2023-12-08,Shoes,Low,Autumn,Mixed,Polyester,3.7,409,North America
+2023-07-28,Outerwear,Low,All Seasons,Pastel,Wool,1.1,949,North America
+2023-06-22,Outerwear,Low,Winter,Neutral,Wool,3.0,745,South America
+2023-10-14,Dresses,Low,Winter,Mixed,Cotton,1.9,330,South America
+2023-10-22,Accessories,Low,Summer,Bright,Wool,3.6,244,Europe
+2023-03-11,Accessories,High,Autumn,Mixed,Wool,1.7,913,Asia
+2023-02-05,Accessories,Low,Autumn,Pastel,Cotton,3.8,244,South America
+2023-06-07,Outerwear,Medium,Spring,Dark,Leather,2.5,716,Australia
+2023-06-04,Dresses,High,Autumn,Dark,Silk,4.7,142,Europe
+2023-06-20,Dresses,Medium,Spring,Bright,Wool,1.6,721,South America
+2023-09-24,Accessories,High,Autumn,Neutral,Wool,2.4,995,Asia
+2023-09-03,Tops,High,Winter,Neutral,Cotton,1.5,110,Australia
+2023-12-26,Tops,Low,Summer,Bright,Cotton,4.7,683,North America
+2023-02-05,Tops,High,All Seasons,Mixed,Wool,4.5,100,North America
+2023-05-27,Tops,Low,Winter,Bright,Polyester,2.0,452,Europe
+2023-05-04,Shoes,Low,Spring,Mixed,Leather,3.6,838,Asia
+2023-11-11,Shoes,High,All Seasons,Bright,Wool,4.3,54,North America
+2023-04-01,Dresses,High,Summer,Dark,Cotton,3.2,515,South America
+2023-03-11,Dresses,Medium,Winter,Neutral,Leather,3.1,653,Asia
+2023-06-13,Accessories,Medium,Summer,Mixed,Polyester,2.0,731,Europe
+2023-06-03,Accessories,High,All Seasons,Dark,Cotton,1.4,878,North America
+2023-04-12,Shoes,Medium,Winter,Pastel,Wool,4.6,583,South America
+2023-04-02,Accessories,Low,Spring,Mixed,Silk,4.6,454,Australia
+2023-12-03,Outerwear,Low,Autumn,Neutral,Cotton,3.5,887,Australia
+2023-06-11,Accessories,Low,Autumn,Pastel,Silk,2.4,562,Europe
+2023-11-11,Accessories,High,Spring,Mixed,Polyester,2.4,694,Europe
+2023-07-20,Accessories,Medium,Spring,Bright,Silk,3.9,282,North America
+2023-01-19,Outerwear,High,Summer,Dark,Silk,4.6,573,Asia
+2023-12-31,Shoes,High,Autumn,Mixed,Polyester,4.5,395,South America
+2023-11-02,Shoes,Low,Autumn,Bright,Polyester,4.1,95,South America
+2023-12-20,Accessories,High,Winter,Dark,Cotton,3.6,595,Australia
+2023-12-05,Outerwear,Low,Autumn,Neutral,Silk,1.3,994,Australia
+2023-11-06,Outerwear,Medium,Summer,Bright,Wool,1.6,127,Europe
+2023-03-02,Tops,Medium,Winter,Mixed,Polyester,4.6,779,Asia
+2023-06-27,Tops,Medium,Spring,Pastel,Silk,3.4,862,North America
+2023-03-20,Dresses,Low,All Seasons,Bright,Cotton,1.0,972,Australia
+2023-05-27,Accessories,Medium,Winter,Mixed,Leather,1.4,122,Australia
+2023-01-22,Shoes,Low,Summer,Pastel,Polyester,3.7,843,North America
+2023-05-19,Dresses,Low,Summer,Dark,Silk,1.0,298,South America
+2023-12-26,Tops,Medium,All Seasons,Dark,Polyester,1.6,96,Australia
+2023-04-07,Accessories,Low,Autumn,Neutral,Cotton,3.2,170,Australia
+2023-10-14,Accessories,Medium,Winter,Dark,Leather,3.8,263,North America
+2023-06-16,Outerwear,High,Summer,Dark,Leather,3.6,288,Europe
+2023-06-04,Shoes,Medium,All Seasons,Dark,Silk,1.9,105,South America
+2023-12-16,Shoes,High,Summer,Neutral,Leather,3.8,399,Europe
+2023-12-30,Tops,High,Winter,Neutral,Wool,1.9,156,South America
+2023-07-22,Tops,High,All Seasons,Dark,Silk,2.3,880,Australia
+2023-09-20,Shoes,Low,Autumn,Dark,Polyester,4.0,97,Asia
+2023-02-26,Dresses,Low,Winter,Dark,Silk,3.6,622,Europe
+2023-04-19,Dresses,Low,Winter,Bright,Wool,4.4,386,Europe
+2023-12-20,Tops,Medium,Winter,Neutral,Polyester,3.6,75,Europe
+2023-07-31,Outerwear,High,Spring,Neutral,Cotton,3.3,853,Asia
+2023-07-17,Outerwear,Medium,Autumn,Bright,Polyester,1.4,306,Australia
+2023-10-01,Shoes,Low,All Seasons,Bright,Silk,2.5,57,South America
+2023-01-21,Outerwear,High,Winter,Bright,Leather,2.1,674,Europe
+2023-08-02,Outerwear,Medium,Winter,Neutral,Cotton,2.0,916,North America
+2023-07-03,Accessories,High,Autumn,Neutral,Leather,4.9,302,Asia
+2023-11-08,Dresses,High,Winter,Pastel,Leather,2.6,741,Australia
+2023-02-27,Tops,Medium,Autumn,Pastel,Leather,4.6,768,South America
+2023-12-17,Accessories,High,Spring,Pastel,Cotton,3.5,352,Europe
+2023-01-30,Shoes,Medium,Winter,Neutral,Silk,4.2,688,Australia
+2023-03-09,Accessories,Medium,Winter,Bright,Polyester,3.0,105,Australia
+2023-08-06,Outerwear,Medium,All Seasons,Neutral,Leather,3.3,775,Europe
+2023-09-04,Tops,High,Spring,Pastel,Polyester,3.0,575,North America
+2023-03-27,Shoes,Medium,Winter,Bright,Silk,1.8,523,North America
+2023-02-13,Accessories,Low,Spring,Bright,Cotton,3.9,77,South America
+2023-11-21,Shoes,Low,All Seasons,Bright,Polyester,2.1,127,Australia
+2023-03-31,Tops,Medium,Spring,Bright,Silk,1.1,265,South America
+2023-08-05,Dresses,Low,Spring,Neutral,Polyester,3.6,435,Europe
+2023-08-15,Dresses,Low,Summer,Mixed,Wool,1.7,414,Australia
+2023-06-03,Accessories,Low,Spring,Mixed,Silk,4.8,715,South America
+2023-08-02,Outerwear,Medium,Winter,Mixed,Silk,4.8,575,Europe
+2023-07-10,Dresses,Low,Autumn,Pastel,Silk,4.7,748,North America
+2023-12-08,Accessories,Medium,Winter,Neutral,Wool,2.5,361,Australia
+2023-03-16,Dresses,Low,All Seasons,Bright,Cotton,1.1,932,South America
+2023-09-19,Outerwear,High,All Seasons,Neutral,Leather,4.7,56,South America
+2023-03-29,Outerwear,Low,Winter,Bright,Wool,2.7,52,South America
+2023-05-25,Shoes,High,Spring,Pastel,Polyester,4.9,672,Australia
+2023-09-03,Shoes,High,Spring,Neutral,Cotton,4.9,968,Australia
+2023-04-20,Dresses,Medium,Summer,Pastel,Silk,4.4,799,Australia
+2023-04-26,Dresses,Medium,Summer,Pastel,Polyester,2.2,412,Australia
+2023-10-02,Outerwear,Medium,Winter,Pastel,Polyester,2.5,800,Australia
+2023-01-27,Shoes,Medium,Autumn,Neutral,Leather,4.4,557,South America
+2023-06-17,Shoes,High,Summer,Bright,Leather,2.3,323,Europe
+2023-12-31,Outerwear,High,Spring,Bright,Leather,1.7,555,Asia
+2023-12-30,Accessories,Medium,All Seasons,Dark,Cotton,3.2,855,Europe
+2023-01-27,Shoes,High,Summer,Pastel,Wool,4.7,788,North America
+2023-03-19,Shoes,Medium,Summer,Neutral,Leather,3.8,932,Australia
+2023-04-07,Tops,Low,Winter,Neutral,Wool,3.3,64,Asia
+2023-12-07,Dresses,Medium,Winter,Bright,Cotton,1.4,241,North America
+2023-11-18,Accessories,Low,Winter,Mixed,Silk,3.5,680,Australia
+2023-11-17,Accessories,Low,Winter,Bright,Polyester,5.0,534,Europe
+2023-05-15,Accessories,Low,Winter,Dark,Silk,1.6,77,Asia
+2023-02-27,Dresses,High,Spring,Mixed,Cotton,3.1,763,Australia
+2023-11-01,Shoes,Medium,Summer,Bright,Leather,4.5,88,South America
+2023-09-14,Outerwear,High,Autumn,Bright,Wool,4.0,322,Australia
+2023-08-12,Shoes,Medium,Summer,Mixed,Cotton,3.8,280,Asia
+2023-12-27,Accessories,Low,All Seasons,Mixed,Leather,3.8,135,South America
+2023-08-27,Tops,Low,Summer,Mixed,Leather,2.4,523,South America
+2023-01-03,Outerwear,Medium,Summer,Neutral,Silk,2.2,175,South America
+2023-10-26,Accessories,Medium,Summer,Bright,Wool,4.2,861,North America
+2023-04-20,Dresses,Medium,Winter,Mixed,Polyester,4.2,586,North America
+2023-08-31,Tops,Low,Summer,Bright,Leather,4.5,194,North America
+2023-12-09,Shoes,Medium,Summer,Bright,Cotton,4.7,574,Europe
+2023-02-19,Shoes,Low,All Seasons,Mixed,Cotton,3.0,261,South America
+2023-02-12,Tops,Medium,Winter,Mixed,Cotton,3.0,74,Australia
+2023-02-09,Outerwear,Medium,Summer,Bright,Leather,4.2,629,North America
+2023-07-21,Outerwear,Medium,Spring,Dark,Cotton,3.6,443,Australia
+2023-04-10,Shoes,High,Winter,Pastel,Silk,3.8,116,Europe
+2023-08-09,Tops,Medium,Summer,Pastel,Silk,4.2,282,North America
+2023-09-19,Outerwear,Low,All Seasons,Bright,Leather,4.6,158,Europe
+2023-03-16,Shoes,Low,All Seasons,Bright,Polyester,2.4,195,Australia
+2023-08-20,Accessories,High,All Seasons,Mixed,Polyester,2.5,160,Europe
+2023-04-07,Shoes,Low,All Seasons,Bright,Polyester,1.4,277,Australia
+2023-06-28,Dresses,High,Summer,Neutral,Leather,3.3,160,Europe
+2023-11-27,Outerwear,Medium,Summer,Pastel,Wool,1.1,519,Europe
+2023-11-05,Outerwear,High,Winter,Pastel,Wool,2.9,83,Europe
+2023-02-03,Dresses,High,Summer,Pastel,Polyester,3.2,672,South America
+2023-06-04,Shoes,Medium,Autumn,Dark,Polyester,2.1,825,Asia
+2023-04-11,Dresses,Medium,Summer,Pastel,Cotton,3.4,985,South America
+2023-01-02,Outerwear,Low,Autumn,Mixed,Polyester,1.1,418,Asia
+2023-10-09,Shoes,Medium,Summer,Pastel,Wool,1.1,797,South America
+2023-08-21,Outerwear,High,Autumn,Dark,Silk,4.3,644,North America
+2023-04-06,Outerwear,High,All Seasons,Pastel,Cotton,2.4,603,South America
+2023-09-28,Dresses,Medium,Winter,Bright,Cotton,1.5,474,Asia
+2023-07-21,Accessories,Medium,Spring,Dark,Silk,3.1,662,South America
+2023-06-06,Shoes,High,Winter,Mixed,Silk,4.1,567,Europe
+2023-01-04,Outerwear,Low,Autumn,Dark,Silk,1.9,741,Europe
+2023-01-28,Shoes,Medium,Summer,Pastel,Leather,3.5,331,North America
+2023-11-19,Outerwear,High,Winter,Pastel,Polyester,1.3,369,South America
+2023-11-26,Dresses,High,Autumn,Dark,Polyester,1.2,787,North America
+2023-07-19,Dresses,High,Winter,Bright,Polyester,3.1,492,Europe
+2023-11-01,Shoes,High,Spring,Dark,Cotton,3.2,364,Asia
+2023-08-01,Outerwear,High,Autumn,Dark,Cotton,3.5,926,Asia
+2023-02-24,Shoes,High,Winter,Dark,Wool,3.9,790,South America
+2023-02-16,Tops,Medium,Spring,Neutral,Leather,4.9,426,Asia
+2023-04-23,Shoes,Medium,Winter,Mixed,Wool,3.1,338,Europe
+2023-11-25,Dresses,Medium,Spring,Pastel,Cotton,2.3,486,Australia
+2023-10-18,Shoes,Medium,Autumn,Pastel,Leather,4.2,711,Australia
+2023-11-11,Shoes,Medium,All Seasons,Pastel,Polyester,2.1,326,Asia
+2023-11-25,Shoes,Low,Autumn,Mixed,Cotton,2.8,759,Australia
+2023-03-18,Dresses,Low,All Seasons,Dark,Polyester,1.3,631,North America
+2023-04-02,Tops,High,All Seasons,Pastel,Polyester,1.1,552,Australia
+2023-02-07,Accessories,Medium,Autumn,Dark,Silk,4.9,673,North America
+2023-10-12,Shoes,Low,Spring,Bright,Wool,4.3,565,Europe
+2023-11-19,Dresses,Low,All Seasons,Mixed,Polyester,3.8,399,Australia
+2023-05-29,Accessories,Low,Summer,Pastel,Leather,2.6,892,North America
+2023-08-15,Tops,High,Winter,Dark,Cotton,1.7,495,Australia
+2023-02-26,Accessories,Low,All Seasons,Neutral,Silk,1.6,879,Asia
+2023-12-06,Accessories,High,Spring,Dark,Silk,2.0,399,Australia
+2023-11-12,Outerwear,High,Autumn,Dark,Wool,3.2,656,North America
+2023-12-23,Dresses,High,Autumn,Bright,Polyester,3.9,713,Australia
+2023-10-23,Accessories,Low,Winter,Dark,Silk,3.6,872,Australia
+2023-11-18,Outerwear,Medium,All Seasons,Neutral,Leather,2.1,186,Asia
+2023-01-10,Outerwear,High,All Seasons,Mixed,Cotton,4.8,808,South America
+2023-09-26,Shoes,Low,Spring,Dark,Cotton,4.0,948,Europe
+2023-05-02,Tops,Medium,All Seasons,Bright,Leather,3.2,292,North America
+2023-12-06,Shoes,Low,Spring,Dark,Leather,3.4,592,North America
+2023-10-20,Shoes,High,All Seasons,Mixed,Cotton,2.7,89,Europe
+2023-11-12,Outerwear,High,All Seasons,Pastel,Leather,2.0,278,North America
+2023-10-23,Outerwear,High,Summer,Neutral,Polyester,2.4,597,Europe
+2023-04-08,Shoes,Low,Autumn,Bright,Wool,4.0,969,South America
+2023-10-15,Shoes,Medium,All Seasons,Pastel,Wool,1.1,272,North America
+2023-02-09,Shoes,Medium,All Seasons,Pastel,Silk,1.5,55,Australia
+2023-11-15,Accessories,High,All Seasons,Pastel,Polyester,1.2,371,Australia
+2023-11-10,Shoes,Low,All Seasons,Pastel,Leather,1.2,517,Europe
+2023-03-23,Accessories,Medium,Spring,Pastel,Cotton,4.4,781,Australia
+2023-10-26,Tops,Low,Autumn,Bright,Cotton,3.8,124,Europe
+2023-06-18,Shoes,High,Spring,Dark,Leather,2.9,53,North America
+2023-04-22,Outerwear,Medium,All Seasons,Pastel,Silk,1.4,896,Europe
+2023-10-18,Dresses,Medium,Summer,Pastel,Cotton,3.0,695,Asia
+2023-03-25,Accessories,Low,All Seasons,Bright,Leather,2.9,167,North America
+2023-01-09,Accessories,High,Autumn,Neutral,Leather,1.7,930,South America
+2023-03-12,Outerwear,Medium,Autumn,Neutral,Polyester,2.7,655,Europe
+2023-04-30,Outerwear,High,All Seasons,Pastel,Cotton,2.6,553,Europe
+2023-11-12,Outerwear,Medium,All Seasons,Mixed,Silk,3.5,996,Australia
+2023-12-19,Dresses,High,Autumn,Neutral,Cotton,3.5,623,Asia
+2023-04-12,Dresses,High,Spring,Mixed,Silk,1.2,490,Europe
+2023-08-23,Accessories,Medium,Spring,Neutral,Leather,2.5,243,South America
+2023-05-26,Accessories,Low,Spring,Bright,Polyester,3.5,896,South America
+2023-12-25,Outerwear,Medium,Autumn,Pastel,Cotton,3.0,764,Europe
+2023-07-15,Tops,Medium,Summer,Bright,Wool,4.4,441,South America
+2023-12-09,Tops,High,Spring,Pastel,Cotton,3.6,75,Europe
+2023-02-12,Accessories,High,Winter,Pastel,Polyester,1.7,484,North America
+2023-12-21,Outerwear,High,Winter,Pastel,Cotton,1.3,222,South America
+2023-03-07,Outerwear,Low,Autumn,Dark,Polyester,3.6,349,South America
+2023-12-18,Accessories,Low,Winter,Bright,Leather,1.1,694,Asia
+2023-04-07,Shoes,Medium,Spring,Bright,Cotton,3.3,375,Europe
+2023-02-09,Tops,High,All Seasons,Mixed,Wool,4.8,459,Australia
+2023-06-08,Accessories,Medium,All Seasons,Neutral,Polyester,3.3,167,North America
+2023-09-23,Outerwear,Low,All Seasons,Mixed,Polyester,2.6,885,Australia
+2023-04-25,Shoes,High,Autumn,Dark,Silk,3.6,836,Asia
+2023-08-10,Accessories,High,Spring,Dark,Silk,2.8,773,North America
+2023-07-06,Outerwear,Low,Winter,Neutral,Cotton,3.2,274,Europe
+2023-05-21,Tops,High,Spring,Mixed,Polyester,4.8,581,Australia
+2023-07-30,Accessories,Low,Spring,Bright,Cotton,2.5,162,North America
+2023-04-03,Dresses,High,Summer,Neutral,Cotton,4.8,189,South America
+2023-09-16,Dresses,Low,Summer,Neutral,Leather,4.6,608,Europe
+2023-01-01,Tops,Medium,Summer,Pastel,Silk,1.8,50,Asia
+2023-12-04,Shoes,High,Summer,Mixed,Wool,1.3,139,North America
+2023-07-16,Shoes,Low,Winter,Bright,Leather,1.4,703,South America
+2023-09-20,Accessories,Medium,All Seasons,Pastel,Wool,1.1,369,Australia
+2023-09-28,Tops,Medium,Summer,Neutral,Leather,1.4,599,Australia
+2023-09-02,Tops,Low,Winter,Dark,Wool,3.7,854,North America
+2023-05-13,Outerwear,Low,Spring,Pastel,Polyester,1.3,943,Australia
+2023-01-26,Accessories,Medium,Winter,Neutral,Silk,2.3,188,Asia
+2023-08-31,Dresses,Low,Winter,Dark,Silk,4.4,560,Europe
+2023-05-01,Outerwear,High,Spring,Neutral,Leather,1.1,917,Asia
+2023-04-25,Tops,Medium,Spring,Pastel,Silk,4.3,894,Asia
+2023-11-06,Shoes,Low,Summer,Bright,Polyester,2.1,308,North America
+2023-09-20,Dresses,High,Autumn,Dark,Cotton,1.5,722,Australia
+2023-04-20,Dresses,High,Autumn,Bright,Polyester,3.8,951,Australia
+2023-04-23,Tops,Medium,All Seasons,Dark,Polyester,3.5,739,Europe
+2023-05-30,Outerwear,High,Winter,Mixed,Leather,4.5,59,Australia
+2023-05-27,Outerwear,Low,Summer,Neutral,Wool,3.9,310,Australia
+2023-04-18,Accessories,Low,Spring,Neutral,Cotton,4.2,968,Europe
+2023-02-16,Tops,High,All Seasons,Mixed,Leather,2.1,699,Australia
+2023-06-03,Shoes,High,Summer,Neutral,Silk,1.7,221,North America
+2023-12-10,Dresses,Low,Winter,Bright,Wool,4.0,947,South America
+2023-09-05,Shoes,High,Summer,Pastel,Leather,4.2,62,North America
+2023-11-26,Accessories,Medium,Spring,Bright,Leather,5.0,217,Australia
+2023-08-13,Shoes,Low,Spring,Mixed,Cotton,2.7,691,North America
+2023-04-20,Dresses,Low,Winter,Pastel,Wool,2.5,645,North America
+2023-07-19,Outerwear,Low,Winter,Dark,Polyester,4.1,370,North America
+2023-01-01,Tops,High,Autumn,Pastel,Leather,2.4,368,North America
+2023-04-15,Dresses,Medium,Autumn,Dark,Leather,4.7,662,North America
+2023-06-06,Shoes,High,Autumn,Pastel,Cotton,4.4,378,Europe
+2023-07-31,Dresses,Medium,Autumn,Bright,Leather,2.7,834,Asia
+2023-08-27,Shoes,Low,Winter,Mixed,Polyester,4.0,826,Europe
+2023-06-19,Shoes,Low,Summer,Dark,Leather,4.0,960,Australia
+2023-06-11,Outerwear,Low,Summer,Mixed,Wool,1.4,969,Europe
+2023-03-20,Dresses,Low,Winter,Dark,Polyester,4.6,599,North America
+2023-06-22,Outerwear,Medium,All Seasons,Bright,Leather,3.0,468,Asia
+2023-11-25,Accessories,High,Spring,Dark,Leather,4.3,655,Europe
+2023-10-18,Dresses,Medium,Autumn,Neutral,Cotton,2.3,144,South America
+2023-03-03,Shoes,Low,Winter,Neutral,Silk,4.6,866,Europe
+2023-01-31,Accessories,High,Spring,Neutral,Leather,2.6,630,North America
+2023-07-08,Accessories,Medium,Autumn,Bright,Wool,1.0,367,Australia
+2023-08-20,Tops,Low,Spring,Neutral,Leather,4.6,285,South America
+2023-05-03,Accessories,Medium,Autumn,Dark,Cotton,1.4,995,South America
+2023-10-26,Shoes,Low,Autumn,Pastel,Wool,2.3,383,Australia
+2023-10-02,Outerwear,Low,Autumn,Pastel,Leather,4.8,934,North America
+2023-09-03,Dresses,Medium,Spring,Neutral,Silk,4.8,425,North America
+2023-03-23,Accessories,Medium,Summer,Bright,Silk,3.3,508,Asia
+2023-03-14,Accessories,Low,Autumn,Neutral,Cotton,3.5,186,Australia
+2023-01-09,Dresses,Medium,Spring,Dark,Leather,2.8,979,North America
+2023-03-31,Accessories,Medium,Summer,Dark,Leather,2.2,637,Europe
+2023-06-23,Accessories,Low,Autumn,Dark,Silk,2.3,596,Europe
+2023-11-07,Accessories,High,Spring,Mixed,Polyester,3.7,562,South America
+2023-01-27,Accessories,Low,Autumn,Pastel,Silk,4.0,345,Europe
+2023-06-01,Accessories,Medium,All Seasons,Pastel,Cotton,4.2,369,Asia
+2023-08-18,Outerwear,Medium,Autumn,Neutral,Polyester,4.2,967,North America
+2023-03-12,Accessories,High,Autumn,Bright,Polyester,1.4,621,North America
+2023-09-12,Outerwear,Medium,Autumn,Pastel,Silk,3.0,881,North America
+2023-06-30,Accessories,Medium,Spring,Neutral,Cotton,1.2,398,Europe
+2023-03-31,Dresses,Medium,Autumn,Bright,Leather,3.2,889,South America
+2023-08-28,Shoes,Medium,All Seasons,Neutral,Polyester,2.8,828,Europe
+2023-01-03,Shoes,High,Winter,Neutral,Cotton,4.6,922,Australia
+2023-10-02,Accessories,Low,Summer,Mixed,Wool,2.4,278,North America
+2023-10-09,Tops,Low,All Seasons,Mixed,Leather,1.5,319,Australia
+2023-02-08,Dresses,High,Winter,Pastel,Leather,1.6,877,North America
+2023-06-05,Accessories,Medium,Autumn,Pastel,Polyester,4.0,847,South America
+2023-03-06,Tops,High,Spring,Dark,Cotton,3.5,340,Australia
+2023-12-16,Tops,Medium,Summer,Pastel,Silk,1.4,774,North America
+2023-07-09,Shoes,High,Spring,Mixed,Leather,1.3,214,Europe
+2023-01-19,Outerwear,High,All Seasons,Pastel,Wool,3.8,54,Asia
+2023-04-01,Shoes,Low,All Seasons,Neutral,Leather,1.3,900,Australia
+2023-11-06,Outerwear,Low,Spring,Neutral,Leather,4.3,428,South America
+2023-06-16,Outerwear,Medium,All Seasons,Dark,Leather,3.8,127,North America
+2023-10-20,Dresses,High,Spring,Bright,Polyester,1.3,459,South America
+2023-09-01,Outerwear,Low,Autumn,Bright,Leather,1.3,623,North America
+2023-12-27,Shoes,High,Winter,Pastel,Polyester,4.9,181,Asia
+2023-08-06,Outerwear,Medium,Winter,Neutral,Cotton,2.5,650,South America
+2023-12-13,Accessories,High,All Seasons,Pastel,Polyester,2.5,798,Europe
+2023-11-22,Dresses,Medium,Winter,Dark,Cotton,4.3,91,Europe
+2023-08-12,Tops,High,Autumn,Dark,Cotton,4.8,138,South America
+2023-09-20,Outerwear,Low,All Seasons,Pastel,Leather,4.9,451,Australia
+2023-07-04,Tops,High,Summer,Neutral,Wool,4.0,345,Australia
+2023-10-31,Outerwear,Medium,All Seasons,Neutral,Leather,2.5,889,Australia
+2023-07-19,Outerwear,Low,All Seasons,Dark,Wool,1.3,344,North America
+2023-11-24,Accessories,Low,Summer,Mixed,Cotton,4.1,665,Australia
+2023-09-29,Outerwear,Low,Winter,Bright,Leather,3.2,575,North America
+2023-06-23,Outerwear,Low,Winter,Mixed,Wool,2.7,849,South America
+2023-04-05,Outerwear,High,Autumn,Neutral,Leather,4.6,740,North America
+2023-04-01,Dresses,Medium,Winter,Dark,Wool,1.4,686,Asia
+2023-08-21,Accessories,High,Summer,Pastel,Polyester,3.0,471,Asia
+2023-10-07,Tops,Medium,Spring,Mixed,Silk,1.0,914,South America
+2023-07-10,Shoes,Low,Autumn,Neutral,Cotton,2.9,72,Australia
+2023-08-17,Shoes,High,Autumn,Mixed,Polyester,1.2,624,North America
+2023-04-11,Accessories,Low,Winter,Dark,Wool,1.5,192,Europe
+2023-01-29,Accessories,Medium,Summer,Bright,Cotton,1.5,714,Europe
+2023-04-15,Shoes,High,Spring,Mixed,Wool,3.6,194,North America
+2023-04-10,Outerwear,High,Spring,Pastel,Leather,4.0,274,Australia
+2023-04-27,Outerwear,Low,Summer,Bright,Leather,3.3,552,South America
+2023-07-17,Tops,Low,Winter,Mixed,Polyester,4.8,870,South America
+2023-02-20,Dresses,Medium,Autumn,Pastel,Leather,2.5,665,North America
+2023-03-26,Tops,High,Autumn,Mixed,Leather,2.1,153,South America
+2023-09-11,Outerwear,High,All Seasons,Dark,Cotton,4.5,996,North America
+2023-09-15,Shoes,High,Summer,Bright,Wool,1.9,88,Asia
+2023-01-24,Outerwear,Medium,Summer,Mixed,Leather,4.9,996,North America
+2023-05-29,Dresses,High,Summer,Pastel,Leather,1.0,247,Europe
+2023-07-18,Tops,Medium,All Seasons,Bright,Polyester,4.9,695,Europe
+2023-06-01,Outerwear,Medium,Winter,Dark,Silk,1.2,628,Australia
+2023-03-17,Outerwear,High,Spring,Dark,Leather,4.6,440,Australia
+2023-06-03,Dresses,Medium,All Seasons,Neutral,Cotton,3.1,228,Australia
+2023-11-27,Shoes,High,Autumn,Neutral,Wool,5.0,603,Asia
+2023-08-02,Tops,High,Winter,Bright,Polyester,1.3,497,Asia
+2023-09-11,Outerwear,Low,All Seasons,Bright,Leather,3.2,549,South America
+2023-11-09,Dresses,Medium,Spring,Neutral,Cotton,4.9,64,Australia
+2023-10-07,Shoes,High,Summer,Bright,Leather,3.1,672,Europe
+2023-05-19,Tops,Medium,Spring,Bright,Cotton,3.5,718,Asia
+2023-01-03,Outerwear,Low,Spring,Pastel,Wool,3.8,338,Australia
+2023-05-09,Tops,Low,Autumn,Bright,Wool,2.8,527,North America
+2023-10-03,Shoes,Medium,Winter,Dark,Leather,3.5,280,Australia
+2023-11-08,Accessories,Low,Spring,Bright,Silk,3.3,972,Europe
+2023-12-15,Accessories,Medium,Winter,Bright,Polyester,4.6,469,Europe
+2023-06-02,Outerwear,Medium,Autumn,Mixed,Polyester,1.2,206,Australia
+2023-09-30,Shoes,High,Summer,Mixed,Cotton,2.1,599,Europe
+2023-07-19,Accessories,Medium,Summer,Dark,Polyester,4.8,490,South America
+2023-08-09,Tops,Low,All Seasons,Neutral,Cotton,4.6,146,Asia
+2023-03-22,Shoes,High,Spring,Mixed,Cotton,2.8,460,South America
+2023-03-22,Tops,Medium,Autumn,Dark,Polyester,3.5,338,North America
+2023-06-09,Shoes,High,Summer,Mixed,Wool,2.1,303,Australia
+2023-01-11,Shoes,Low,All Seasons,Mixed,Leather,1.8,245,North America
+2023-05-03,Outerwear,High,Winter,Mixed,Leather,2.9,647,South America
+2023-09-05,Tops,High,Summer,Neutral,Silk,2.4,883,South America
+2023-05-28,Dresses,Low,Autumn,Mixed,Polyester,3.3,571,South America
+2023-03-02,Shoes,Medium,Winter,Bright,Silk,1.3,566,North America
+2023-06-20,Outerwear,Medium,Summer,Dark,Cotton,4.9,684,Asia
+2023-02-16,Outerwear,High,Summer,Mixed,Silk,4.9,891,Europe
